@@ -36,6 +36,7 @@ Détection de bateau coulé
 Fin de partie : tous les bateaux coulés
 
 📂 Structure du projet
+```
 projet-bataille-navale/
 │
 ├── bataille.py         # Logique du jeu complet
@@ -48,6 +49,8 @@ projet-bataille-navale/
 ├── main.py             # Point d'entrée du jeu
 ├── requirements.txt    # Dépendances (standard library uniquement)
 └── README.md           # Documentation du projet
+```
+
 
 ▶️ Lancer le jeu
 1️⃣ Créer un environnement virtuel
@@ -78,6 +81,7 @@ python test_bateau.py
 python test_ajout.py
 
 🖥️ Exemple d'affichage
+```
 ~~~~🚣🚣~~~~
 ~~~~~~~~~~
 ~~~~🚢🚢🚢🚢~~
@@ -86,3 +90,4 @@ python test_ajout.py
 ~~~~~~~~🐟🐟
 ~~~~~~~~~~
 ~~~~~~~~~~
+```
