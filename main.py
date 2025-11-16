@@ -1,2 +1,4 @@
-print("123")
-print("Hello, World!")
+from bataille import jouer
+
+if __name__ == "__main__":
+    jouer()
